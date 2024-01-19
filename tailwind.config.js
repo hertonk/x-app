@@ -6,6 +6,12 @@ export default {
   ],
   theme: {
     extend: {},
+    colors: {
+      'bege' : '#ECE0CE',
+      'vinho' : '#651510',
+      'marrom' : '#A27E78',
+      'white' : '#ffffff'
+    }
   },
   plugins: [],
 }
