@@ -12,7 +12,7 @@ export function Login(){
                     <button className='bg-vinho px-4 py-2 rounded-md text-white'>ENTRAR</button>
                 </form>
                 <div className='my-10'>
-                    <a href="#" className='text-vinho'>Esqueceu sua senha?</a>
+                    <a href="/esqueceu-sua-senha" className='text-vinho'>Esqueceu sua senha?</a>
                 </div>
             </div>
         </div>
