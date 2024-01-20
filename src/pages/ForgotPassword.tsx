@@ -11,6 +11,9 @@ export function ForgotPassword(){
                     <input type="text" name="" id="" placeholder='E-mail' className='my-2 rounded-md px-4 py-2 border-2 border-marrom' />
                     <button className='bg-vinho px-4 py-2 rounded-md text-white'>RECUPERAR</button>
                 </form>
+                <div className='my-10'>
+                    <a href="/" className='text-vinho'>&laquo; Voltar</a>
+                </div>
             </div>
         </div>
     );
