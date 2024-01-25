@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import logo from '../assets/logo2.png';
 import profile from '../assets/profile.png';
 
@@ -5,7 +6,9 @@ export function Header(){
     return (
         <div className="w-full bg-vinho mx-auto flex flex-row justify-between border-b-4 border-white">
                <div className='flex items-center justify-center px-8'>
-                    <img src={logo} alt="X do Infinito" />
+                    <Link to="/dashboard">
+                        <img src={logo} alt="X do Infinito" />
+                    </Link>
                </div>
                <div className='flex flex-row p-4'>
                     <div className='flex flex-col justify-center'>
