@@ -35,7 +35,7 @@ export function Sell(){
                                 <a href="#">Crédito</a>
                             </div>
                             <div className="border border-marrom rounded-lg p-5">
-                            <svg fill="#000000" version="1.1" className="mb-2" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64" xml:space="preserve">
+                            <svg fill="#000000" version="1.1" className="mb-2" id="Capa_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
                                 <g>
                                     <rect x="38" y="23" width="2" height="5"/>
                                     <rect x="42" y="23" width="2" height="5"/>
